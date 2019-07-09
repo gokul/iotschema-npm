@@ -1,0 +1,17 @@
+{
+  "name": "@royalgok/iotschema-argonconcentration",
+  "version": "0.0.0-alpha",
+  "description": "Package for the iot.schema.org argonconcentration node-RED node",
+  "main": "argonconcentration.js",
+  "keywords": [
+    "iotschema",
+    "node",
+    "node-red"
+  ],
+  "author": "gokul",
+  "node-red" : {
+    "nodes": {
+      "argonconcentration": "argonconcentration.js"
+    }
+  }
+}
