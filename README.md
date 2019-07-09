@@ -1,7 +1,7 @@
 # iotschema-npm
 Sources for installing the iot.schema.org node-RED packages through npm
 
-Based on https://github.com/gokul/iotschema-node-red
+Based on https://github.com/iot-schema-collab/iotschema-node-red
 
 ## Prerequisites
 
