@@ -9,6 +9,7 @@ Node-RED must be installed and configured.
 
 ## Install
 
+From $NODE_RED_HOME, issue
 ```
 $ npm install @royalgok/<package_name>
 ```
